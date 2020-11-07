@@ -1,5 +1,5 @@
 ## 20201108
-* Trigger Build
+* Trigger Building
 
 ## 20201102
 * 常规更新
